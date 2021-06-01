@@ -1,5 +1,3 @@
-# React Container Components
-
 ## Overview
 
 In this lab, we will practice building container components. By the end of the
